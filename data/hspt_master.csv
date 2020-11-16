@@ -1,0 +1,587 @@
+1;ambiguous;a;unclear
+2;anecdote;n;story
+3;malignant;a;dangerous
+4;ostracize;v;to exclude
+5;banal;a;boring
+6;consolidate;v;to combine
+7;disparage;v;to belittle
+8;enigma;n;puzzle
+9;frugal;a;thrifty
+10;illustrious;a;celebrated
+11;impartial;a;unprejudiced
+12;palatable;a;pleasant in taste
+13;prerogative;n;an official right
+14;scrutinize;v;to inspect, to analyze
+15;staunch;a;loyal
+16;acclaim;v;to praise
+17;aloof;a;indifferent
+18;amicable;a;civil, cordial
+19;arbitrary;a;based on a whim
+20;assent;v;to agree
+21;belated;a;after the event
+22;brazen;a;bold
+23;buttress;v;to reinforce
+24;cumulative;a;successive adding
+25;destitute;a;very poor
+26;discern;v;to discover
+27;distinct;a;separate
+28;duress;n;threat, hardship
+29;eloquent;a;skillful with words
+30;emancipate;v;to free
+31;expedite;v;to speed up
+32;frivolous;a;trivial
+33;induct;v;to put in office
+34;inordinate;a;excessive
+35;irate;a;angry
+36;mundane;a;usual, ordinary
+37;oration;n;sermon
+38;precocious;a;mentally mature
+39;premonition;n;hunch
+40;prevalent;a;widespread
+41;reflective;a;automatic
+42;reticent;a;quiet
+43;taciturn;a;quiet
+44;transient;a;passing quickly
+45;volatile;a;quickly changing
+46;abode;n;residence
+47;abrupt;a;blunt
+48;adorn;v;to decorate
+49;aesthetic;a;about beauty
+50;affront;n;deliberate act
+51;agitate;v;to shake, disturb
+52;ajar;a;slightly open
+53;alleviate;v;to lessen
+54;allot;v;to allocate, to give out
+55;altruistic;a;unselfish
+56;ambivalent;a;uncertain
+57;amiable;a;friendly
+58;apex;n;peak
+59;archaic;a;very old
+60;asperity;n;harshness of tone
+61;astute;a;sharp
+62;augment;v;to make greater
+63;belligerent;a;warlike
+64;blatant;a;obvious
+65;blithe;a;happy
+66;bolster;v;to support
+67;brash;a;bold
+68;candid;a;frank, open
+69;captivate;v;to enchant
+70;censure;v;to criticize harshly
+71;choleric;a;irritable
+72;clandestine;a;secretive
+73;conceited;a;overly proud
+74;concord;n;agreement
+75;condescending;a;snobby
+76;conflagration;n;a destructive fire
+77;congenial;a;pleasing, friendly
+78;contagious;a;communicable
+79;contrite;a;sorry
+80;conundrum;n;a riddle
+81;critical;a;fault-finding
+82;delinquent;a;overdue
+83;derelict;a;irresponsible
+84;deviate;v;to stray from
+85;disclose;v;to reveal
+86;discredit;v;to cause disbelief
+87;discrete;a;separate or distinct
+88;embellish;v;to decorate, beautify
+89;enumerate;v;to name individually
+90;enthrall;v;to enchant
+91;epitome;n;perfect example
+92;eulogy;n;speech of praise
+93;exorbitant;a;excessive
+94;exonerate;v;to free of blame
+95;fallacy;n;false belief
+96;flagrant;a;blatant
+97;fluctuate;v;to vary
+98;garrulous;a;chatty
+99;gratify;v;to satisfy
+100;incensed;a;angry
+101;incessant;a;never ending
+102;instill;v;to firmly establish
+103;jovial;a;happy
+104;knoll;n;small hill
+105;lament;v;to mourn, to grieve
+106;mar;v;to damage
+107;miscreant;n;villain
+108;monotonous;a;boring
+109;morose;a;gloomy
+110;municipality;n;community
+111;naive;a;trusting
+112;objective;a;unbiased
+113;opaque;a;cloudy
+114;perceptive;a;quick to notice
+115;peruse;v;to look over
+116;philanthropy;n;generosity
+117;pious;a;religious
+118;pivotal;a;important
+119;placate;v;to calm or pacify
+120;plight;n;unfortunate condition
+121;ponder;v;to think about
+122;pretentious;a;overly important
+123;prompt;a;on time
+124;prudent;a;careful
+125;quandary;n;dilemma
+126;rampant;a;widespread
+127;reproach;v;to express disapproval
+128;satiate;v;to fill, to satisfy
+129;sedentary;a;need for sitting
+130;skeptical;a;doubtful
+131;spontaneous;a;impulsive
+132;sporadic;a;intermittent
+133;stagnant;a;not moving
+134;strife;n;a struggle
+135;subsequent;a;following
+136;succinct;a;to the point, brief
+137;taint;v;to pollute
+138;tempest;n;a violent windstorm
+139;tenuous;a;weak, fragile
+140;terse;a;to the point
+141;tenacious;a;persistent
+142;translucent;a;clear
+143;unorthodox;a;not traditional
+144;usurp;v;to take over
+145;vindicate;v;to confirm
+146;vitality;n;energy, spirit
+147;voracious;a;hungry
+148;zeal;n;eager desire
+149;zenith;n;the top, peak
+150;abbreviate;v;to shorten
+151;abdicate;v;to give up power
+152;abhor;v;despise
+153;abnormal;a;not normal, average
+154;abrasive;a;irritating
+155;absolution;n;forgiveness
+156;absolve;v;to free from guilt
+157;abstain;v;to hold back
+158;abundant;a;plentiful
+159;accelerate;v;advance
+160;accomodate;v;to make room
+161;accountable;a;responsible for
+162;accumulate;v;to collect
+163;accuse;v;to blame
+164;acrid;a;bitter
+165;adamant;a;determined
+166;adaptable;a;able to change
+167;adept;a;skillful
+168;adhere;v;to attach, to stick
+169;adjacent;a;next to
+170;admonish;v;to warn
+171;adversary;n;opponent
+172;adverse;a;opposing
+173;advocate;v;to support
+174;affluent;a;wealthy
+175;aggravate;v;to make worse
+176;aggressive;a;forceful
+177;ailment;n;mild illness
+178;allocate;v;to give out
+179;alter;v;change
+180;altercation;n;disagreement
+181;amass;v;to gather, to accumulate
+182;amiss;a;wrong
+183;ample;a;plenty, enough
+184;amplify;v;to increase
+185;analyze;v;to examine
+186;animate;v;to make alive
+187;animosity;n;hostility
+188;antagonize;v;to provoke
+189;anticipate;v;foresee
+190;antidote;n;a cure for poison
+191;apathy;n;indifference
+192;appalling;a;shocking
+193;apprehensive;a;cautious
+194;arduous;a;difficult
+195;arid;a;dry
+196;arrogant;a;pompous, cocky
+197;aspire;v;to strive
+198;assist;v;to help
+199;atone;v;to make amends
+200;atrocious;a;awful
+201;atypical;a;unusual
+202;audible;a;able to be heard
+203;authentic;a;real
+204;avert;v;to avoid
+205;averse;a;opposed to
+206;avid;a;eager
+207;baffle;v;to confuse
+208;banter;n;teasing
+209;barter;v;to bargain or to negotiate
+210;belittle;v;to put down
+211;benefit;v;to gain an advantage
+212;benign;a;favorable
+213;benevolent;a;charitable
+214;berate;v;to scold
+215;biased;a;partial
+216;bizarre;a;odd
+217;bleak;a;barren
+218;boisterous;a;noisy, rowdy
+219;brisk;a;fast, active
+220;broach;v;to bring up
+221;callous;a;careless
+222;cantankerous;a;grouchy
+223;caustic;a;corrosive
+224;ceremonious;a;formal
+225;champion;v;to defend or support
+226;chastise;v;to scold
+227;circumvent;v;to go around
+228;clamor;v;to make commotion
+229;clemency;n;mercy
+230;coarse;a;rough
+231;cohesive;a;sticking together
+232;collaborate;v;to work together
+233;commend;v;to praise
+234;compassion;n;sympathy
+235;competent;a;able
+236;complacent;a;at ease, happy
+237;comprehensive;a;all-inclusive
+238;compromise;v;to give and take
+239;conceal;n;hide
+240;concede;v;admit
+241;concise;a;to the point
+242;conclude;v;to end
+243;concur;v;to agree
+244;condescend;v;to stoop or humble
+245;condone;v;to allow
+246;confiscate;v;to take away
+247;consequently;a;as a result
+248;conspicuous;a;obvious
+249;conspiracy;n;scheme
+250;construct;v;to build
+251;contaminate;v;to make impure
+252;contemporary;a;modern
+253;content;a;satisfied
+254;contort;v;to twist or bend
+255;contradict;v;to speak against
+256;contrive;v;to devise
+257;conventional;a;traditional
+258;corrupt;a;dishonest
+259;counterfeit;a;fake
+260;courteous;a;mannerly
+261;credible;a;believable
+262;crucial;n;necessary
+263;culprit;n;one at fault
+264;culture;n;breeding, art
+265;cynical;a;doubtful
+266;debilitating;a;weakening
+267;debunk;v;to expose falseness
+268;decipher;v;to figure out
+269;declare;v;to announce
+270;decree;v;to command
+271;defer;v;to put off
+272;deficient;a;lacking
+273;defile;v;violate, corrupt
+274;delay;v;suspension, put off
+275;delegate;v;to assign
+276;delicate;a;fragile
+277;deplete;v;to consume or use up
+278;deplorable;a;shameful
+279;desecrate;v;to violate
+280;desist;v;to stop
+281;deter;v;to hinder
+282;detrimental;a;harmful
+283;devious;a;tricky, sneaky
+284;dexterity;n;aptitude
+285;diction;n;speech
+286;dilapidated;a;falling apart
+287;diligent;a;persevering
+288;diminish;v;to decrease
+289;disadvantage;n;a hurt or loss
+290;discriminate;v;to show prejudice
+291;disdain;n;hate or indifference
+292;disheveled;a;messy
+293;dismal;a;dreary
+294;dismantle;v;to take apart
+295;dispute;v;to argue
+296;disregard;v;to ignore
+297;distort;v;to alter
+298;distraught;a;upset
+299;diverse;a;different
+300;divulge;v;to reveal
+301;docile;a;tame
+302;dormant;a;inactive
+303;dubious;a;doubtful
+304;durable;a;sturdy, strong
+305;eccentric;a;unusual
+306;ecstatic;a;very happy
+307;edible;a;meant to be eaten
+308;elated;a;excited, happy
+309;elite;a;the best
+310;elusive;a;hard to grab
+311;embark;v;to begin a journey
+312;encroach;v;to trespass
+313;endanger;v;to threaten
+314;endorse;v;to advocate, to support
+315;endure;v;to get through
+316;enhance;v;to improve
+317;ensure;v;to guarantee
+318;envious;a;jealous
+319;eradicate;v;to eliminate
+320;erratic;a;unpredictable
+321;essential;a;necessary
+322;ethical;a;moral
+323;excerpt;n;part of the whole
+324;exempt;a;not required to
+325;exhibit;v;to display
+326;expedient;a;advantageous
+327;fabricate;v;to dream up, to contrive
+328;feasible;a;possible
+329;feeble;a;weak
+330;feign;v;to pretend
+331;flair;n;ability
+332;flaunt;v;to show off
+333;flexible;a;easily changed
+334;florid;a;elaborate
+335;forfeit;v;to give up
+336;formidable;a;awesome
+337;frenetic;a;energetic
+338;fugitive;n;someone escaping
+339;fundamental;a;basic
+340;futile;a;ineffective
+341;gaunt;a;thin, bleak
+342;generate;v;to make
+343;generous;a;giving
+344;gingerly;a;cautious
+345;grandiose;a;extravagant
+346;grave;a;serious
+347;grueling;a;exhausting
+348;gullible;a;easily deceived
+349;hamper;v;to hinder or slow
+350;hapless;a;unlucky
+351;harbor;v;to protect
+352;harmonious;a;agreeable
+353;hasten;v;to speed up
+354;haughty;a;arrogant
+355;hinder;v;to get in the way of
+356;hindrance;n;something in the way
+357;humble;a;modest
+358;hybrid;n;mixture
+359;hypothesis;n;formulation
+360;illiterate;a;unable to read
+361;immaculate;a;clean, spotless
+362;imminent;a;about to happen
+363;immune;a;unaffected
+364;impair;v;to damage
+365;impeccable;a;flawless
+366;impede;v;to obstruct
+367;impediment;n;a hindrance
+368;imperative;a;important
+369;impulsive;a;without thought
+370;incompetent;a;incapable
+371;inconspicuous;a;hidden
+372;incriminate;v;to accuse
+373;indecent;a;offensive
+374;indifferent;a;not caring
+375;indispensable;a;necessary
+376;induce;v;to cause or start
+377;inert;a;not moving
+378;inevitable;a;unavoidable
+379;infamous;a;bad reputation
+380;infinite;a;without limit
+381;infringe;v;violate
+382;insinuate;v;to imply
+383;insipid;a;dull
+384;insolent;a;disrespectful
+385;instigate;v;to initiate, to plot
+386;instinctively;a;automatic
+387;intact;a;in one piece
+388;integrity;n;honesty
+389;interfere;v;to intervene
+390;intimidate;v;to frighten
+391;intricate;a;detailed
+392;intriguing;a;interesting
+393;intrusive;a;unwelcomed
+394;inundate;v;to overload
+395;invigorate;v;to give energy to
+396;invincible;a;can't be defeated
+397;irrational;a;nonsensical
+398;irrelevant;a;beside the point
+399;isolate;v;to separate
+400;jeer;v;to mock
+401;jeopardize;v;to put at risk
+402;jubilant;a;showing joy
+403;keen;a;smart, quick
+404;latitude;n;space to move
+405;legitimate;a;valid, real
+406;lethargic;a;without energy
+407;linger;v;to stay around
+408;listlessness;n;sluggishness
+409;livid;a;enraged
+410;loathe;v;to hate
+411;lucid;a;easy to understand
+412;lucrative;a;well paid
+413;maintain;v;to continue
+414;malcontent;a;unhappy
+415;malice;n;desire to harm
+416;malleable;a;able to be changed
+417;mandate;v;to order
+418;meager;a;inadequate
+419;meander;v;wander aimlessly
+420;mediocre;a;adequate
+421;melancholy;a;sad
+422;merit;n;praise, excellence
+423;meticulous;a;finicky
+424;misconception;n;wrong idea
+425;mitigate;v;to lessen
+426;modify;v;to change, adjust
+427;moral;a;ethical
+428;mythical;a;existing in myth
+429;negligent;a;careless
+430;nimble;a;moving with ease
+431;nocturnal;a;happening at night
+432;noisome;a;offensive
+433;nomad;n;one who moves often
+434;nomadic;a;wandering
+435;nonchalant;a;easygoing
+436;notorious;a;infamous
+437;novice;n;beginner
+438;noxious;a;deadly
+439;obliterate;v;to eliminate
+440;oblivious;a;unaware
+441;obstruct;v;to block
+442;obscure;v;to conceal
+443;obsolete;a;outdated
+444;ominous;a;foretelling
+445;omnipotent;a;all powerful
+446;opulent;a;luxurious
+447;ornate;a;fancy, decorated
+448;pacify;v;to calm
+449;parched;a;thirsty
+450;passive;a;not aggressive
+451;pathetic;a;sad, pitiful
+452;patron;n;sponsor, advocate
+453;pedigree;n;line of descent
+454;perpetual;a;ongoing
+455;perturb;v;to upset
+456;petite;a;small
+457;pinnacle;n;peak
+458;placid;a;calm
+459;plausible;a;believable
+460;plethora;n;excess
+461;poised;a;balanced
+462;potent;a;powerful
+463;predominant;a;great in number
+464;preface;n;introduction
+465;preserve;v;to keep, to safeguard
+466;preview;v;to view before
+467;prior;a;before
+468;principal;n;main
+469;proclaim;v;to announce
+470;procrastinate;v;to put off
+471;proficient;a;skillful
+472;prohibit;v;to forbid
+473;prolific;a;creative, productive
+474;prolong;v;to lengthen
+475;provoke;v;to anger
+476;pungent;a;sharp smelling
+477;pilot;v;to steer
+478;quarrelsome;a;disagreeable
+479;quench;v;to put out
+480;querulous;a;complaining
+481;radiant;a;beaming
+482;ratify;v;to approve
+483;rational;a;normal, sane
+484;ravenous;a;starving
+485;recalcitrant;a;disobedient
+486;reclusive;a;isolated
+487;reconcile;v;to resolve
+488;rectify;v;to fix
+489;recuperate;v;to recover
+490;redundant;a;repetitious
+491;reimburse;v;to pay back
+492;refurbish;v;to fix up
+493;refute;v;to contradict
+494;rejuvenate;v;to make new again
+495;relinquish;v;to release
+496;reluctance;n;hesitation
+497;remorse;n;sense of guilt
+498;replenish;v;to refill, to put back
+499;reprimand;v;to scold
+500;reprisal;n;retaliation
+501;reputable;a;distinguished
+502;resume;v;to continue
+503;resolve;v;to decide, to agree
+504;restore;v;to make new
+505;retract;v;to take back
+506;revere;v;to admire
+507;rickety;a;flimsy
+508;rigorous;a;harsh, exact
+509;robust;a;strong, healthy
+510;routine;a;ordinary, normal
+511;sage;a;wise
+512;salvage;v;save from
+513;saunter;v;to linger, to stroll
+514;serene;a;calm
+515;sever;v;to cut off
+516;severe;a;harsh
+517;shrewd;a;clever
+518;significant;a;important
+519;simulate;v;to imitate
+520;slovenly;a;dirty, careless
+521;solace;n;comfort
+522;somber;a;gloomy
+523;sparse;a;scarce, limited
+524;squander;v;to waste
+525;stealthy;a;secretive, quiet
+526;sterile;a;germ-free
+527;stimulate;v;to provoke
+528;stringent;a;rigid
+529;subtle;a;indirect, faint
+530;sullen;a;gloomy
+531;superficial;a;near the surface
+532;superfluous;a;excessive
+533;suppress;v;to prevent, to constrain
+534;surge;n;a rush
+535;sustain;v;to keep going
+536;swelter;a;sweat
+537;tactile;a;relative to touch
+538;tangible;a;able to be touched
+539;taunt;v;to tease
+540;tedious;a;dull, annoying
+541;temperate;a;mild, moderate
+542;tense;a;nervous, anxious
+543;thrive;v;to do well
+544;throb;v;pulse
+545;timid;a;shy
+546;tirade;n;a long outburst
+547;tolerant;a;accepting
+548;toxic;a;poisonous
+549;trance;n;stupor
+550;transform;v;to change completely
+551;traverse;v;to cross
+552;tremble;v;to shake
+553;trivial;a;unimportant
+554;tycoon;n;one with money
+555;tyrant;n;an unjust ruler
+556;ultimate;a;last, highest
+557;undaunted;a;not discouraged
+558;undermine;v;weaken
+559;uniform;a;the same
+560;unkempt;a;messy
+561;unique;a;the only one
+562;unsung;a;overlooked
+563;utilize;v;to use
+564;utmost;a;highest, best
+565;vacant;a;empty
+566;vague;a;unclear
+567;vain;a;egotistical
+568;valid;a;right, genuine
+569;validate;v;to approve
+570;verbose;a;wordy
+571;verge;n;brink
+572;viable;a;reasonable
+573;vigilant;a;watchful
+574;vigorous;a;energetic
+575;virtually;a;essentially
+576;vital;a;essential
+577;vulnerable;a;defenseless
+578;wage;n;compensation, pay
+579;wage;v;to do or to conduct
+580;wary;a;cautious
+581;waver;v;to go back and forth
+582;weary;a;exhausted
+583;whimsical;a;carefree
+584;wily;a;crafty, sly
+585;yearn;v;to want
+586;youthful;a;young
+587;zealot;n;fanatic
