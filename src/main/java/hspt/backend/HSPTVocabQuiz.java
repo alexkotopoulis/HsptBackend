@@ -14,6 +14,11 @@ import java.util.Properties;
 import java.util.Random;
 import java.util.Set;
 
+/**
+ * Quiz object with a list of questions and responses
+ * @author alex
+ *
+ */
 public class HSPTVocabQuiz extends Quiz {
 	// static String filename="./hspt.csv";
 	static final String BASE_PATH = "/tmp/hspt";

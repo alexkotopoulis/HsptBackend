@@ -3,6 +3,11 @@ package hspt.backend;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Log of response statistics of a quiz
+ * @author alex
+ *
+ */
 public class HSPTVocabQuizLog {
 	List<HSPTVocabQuestionLog> questions = new ArrayList<HSPTVocabQuestionLog>(); 
 	String timeStart;
